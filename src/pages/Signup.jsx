@@ -22,23 +22,23 @@ export default function Signup() {
           <h1 className="font-extrabold text-4xl text-start my-6">
             Create your personalized feed
           </h1>
-          <p className="w-[33rem] text-start my-4 font-medium text-xl">
+          <p className="w-80 md:w-[33rem] text-start my-4 font-medium text-xl">
             🎈 <span className="font-bold text-2xl">Over 20 resources. </span>
             With resources ranging from Reddit to IndieHackers, we've got all
             your needs covered.
           </p>
-          <p className="w-[33rem] text-start my-4 font-medium text-xl">
+          <p className="w-80 md:w-[33rem] text-start my-4 font-medium text-xl">
             🗞️ <span className="font-bold text-2xl">Delivered weekly. </span>
             Every week at exactly Tuesday 12:00 P.M. EST - expect a value-packed
             digest right in your email.
           </p>
-          <p className="w-[33rem] text-start my-4 font-medium text-xl">
+          <p className="w-80 md:w-[33rem] text-start my-4 font-medium text-xl">
             💡<span className="font-bold text-2xl">Unlimited ideas. </span>
             With all the ideas you'll be reading about, what's stopping you from
             creating a sustainable startup?
           </p>
         </div>
-        <div className="bg-gray-300 p-16 rounded-md text-start">
+        <div className="bg-gray-300 p-7 md:p-16 rounded-md text-start">
           <h2 className="font-black text-2xl my-2">
             Create your IndieBrew account
           </h2>
