@@ -30,7 +30,7 @@ export default function Hero() {
             <img src={phone} alt="phone mockup" className="w-[40rem]" />
           </div>
           <div className="text-start">
-            <h2 className="font-extrabold text-4xl my-2 w-[35rem]">
+            <h2 className="font-extrabold text-4xl my-2 w-96 md:w-[35rem]">
               Access your feed from the comfort of your phone.
             </h2>
             <p className="w-80 md:w-[34rem] text-gray-500 my-2">
