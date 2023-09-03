@@ -40,10 +40,10 @@ export default function Header() {
 
         <section className="flex justify-between items-center mt-10 flex-col-reverse lg:flex-row">
           <div className="text-start md:w-full">
-            <h1 className="font-extrabold text-6xl my-2 w-[34rem]">
+            <h1 className="font-extrabold text-6xl my-2 w-80 md:w-[34rem]">
               Your weekly personal feed digest.
             </h1>
-            <p className="my-2 w-[34rem] text-gray-400">
+            <p className="my-2 w-80 md:w-[34rem] text-gray-400">
               With IndieBrew, get personal feeds from resources all around the
               web, including Reddit, HackerNews, IndieHackers, and much more.
             </p>
